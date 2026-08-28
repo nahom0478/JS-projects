@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.counter-container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+button{
+    padding: 15px;
+    cursor: pointer;
+    
+}
